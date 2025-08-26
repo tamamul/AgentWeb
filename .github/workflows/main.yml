@@ -3,7 +3,7 @@ name: Android CI
 on:
   push:
     branches:
-      - master   # ganti kalau branch utama kamu beda
+      - main   # ganti kalau branch utama kamu beda
   pull_request:
 
 jobs:
